@@ -36,3 +36,5 @@ In my current role, I have used Swift as my main programming language, and I hav
 
 I hope you find my projects and contributions on GitHub to be interesting and useful! 
 Feel free to reach out if you have any questions or want to collaborate.
+
+![Aysel's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyselHeydarova&count_private=true)
