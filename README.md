@@ -26,10 +26,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me **aysel.esedova1994@gmail.com**
 
 - ![linkedin-original 256x256](https://user-images.githubusercontent.com/22838367/210111074-70695d55-c4c9-4ef4-8d33-6a3b2e2b11cb.png) Know about my experiences using Linkedin Profile [Aysel Heydarova](https://www.linkedin.com/in/aysel-heydarova-6b8ab1124/)
-- <p align="left">
-<a href="https://www.leetcode.com/ayselheydarova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayselheydarova" height="30" width="40" /></a>
-</p>
-
 
 As an iOS Developer, I am dedicated to delivering high-quality work on time and to specification. I prioritize writing clean, solid, readable code that scales and performs well, and I enjoy tackling hard tasks and challenges that come my way. Over the past three years, I have gained experience in the fintech industry, working under Agile and Scrum frameworks.
 
@@ -40,9 +36,9 @@ In my current role, I have used Swift as my main programming language, and I hav
 I hope you find my projects and contributions on GitHub to be interesting and useful! 
 Feel free to reach out if you have any questions or want to collaborate.
 
+## Languages and Tools:
 
-<!-- <br> 
-<h3 align="left">GitHub Stats:</h3> -->
+<p align="left"> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a></p>
 
 ## Github Stats:
 
@@ -54,8 +50,7 @@ Feel free to reach out if you have any questions or want to collaborate.
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyselHeydarova&layout=compact)](https://github.com/AyselHeydarova/github-readme-stats)
 
-## Skills and Experience
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
-
+### LeetCode profile:
+<p align="left">
+<a href="https://www.leetcode.com/ayselheydarova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayselheydarova" height="30" width="40" /></a>
+</p>
