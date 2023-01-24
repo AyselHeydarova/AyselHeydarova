@@ -39,7 +39,7 @@ Feel free to reach out if you have any questions or want to collaborate.
 <!-- <br> 
 <h3 align="left">GitHub Stats:</h3> -->
 
-### Github Stats:
+## Github Stats:
 
 ![Aysel's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyselHeydarova&count_private=true)
 
