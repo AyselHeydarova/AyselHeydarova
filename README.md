@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 
 - ![linkedin-original 256x256](https://user-images.githubusercontent.com/22838367/210111074-70695d55-c4c9-4ef4-8d33-6a3b2e2b11cb.png) Know about my experiences using Linkedin Profile [Aysel Heydarova](https://www.linkedin.com/in/aysel-heydarova-6b8ab1124/)
 
+### ⚡ About me:
+
 As an iOS Developer, I am dedicated to delivering high-quality work on time and to specification. I prioritize writing clean, solid, readable code that scales and performs well, and I enjoy tackling hard tasks and challenges that come my way. Over the past three years, I have gained experience in the fintech industry, working under Agile and Scrum frameworks.
 
 I have also developed a full e-commerce app using React Native, Redux, Firebase, and FireStore, and I have experience with AR, RealityKit, SwiftUI, and Combine. I am always eager to learn and explore new technologies.
