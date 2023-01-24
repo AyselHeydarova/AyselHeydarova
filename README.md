@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=58A6FF&width=520&lines=iOS+Developer+Based+in+Azerbaijan++%F0%9F%92%BB" alt="Typing SVG" />
 </h3>
 
-<!-- <h3 align="left">Connect with me:</h3> -->
 ### Connect with me:
 
 - 📫 How to reach me **aysel.esedova1994@gmail.com**
@@ -36,16 +35,16 @@ In my current role, I have used Swift as my main programming language, and I hav
 I hope you find my projects and contributions on GitHub to be interesting and useful! 
 Feel free to reach out if you have any questions or want to collaborate.
 
-![Aysel's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyselHeydarova&count_private=true)
 
-<br> 
-<h3 align="left">GitHub Stats:</h3>
+<!-- <br> 
+<h3 align="left">GitHub Stats:</h3> -->
+
+### Github Stats:
+
+![Aysel's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyselHeydarova&count_private=true)
 
 ---
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AyselHeydarova" alt="AyselHeydarova" /></p>
-
----
-![Sai Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyselHeydarova&count_private=true&show_icons=true&theme=synthwave)
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyselHeydarova&layout=compact)](https://github.com/AyselHeydarova/github-readme-stats)
