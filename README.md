@@ -38,3 +38,19 @@ I hope you find my projects and contributions on GitHub to be interesting and us
 Feel free to reach out if you have any questions or want to collaborate.
 
 ![Aysel's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyselHeydarova&count_private=true)
+
+<br> 
+<h3 align="left">GitHub Stats:</h3>
+
+---
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AyselHeydarova" alt="AyselHeydarova" /></p>
+
+---
+![Sai Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyselHeydarova&count_private=true&show_icons=true&theme=synthwave)
+
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyselHeydarova&layout=compact)](https://github.com/AyselHeydarova/github-readme-stats)
+
+## Skills and Experience
+
+
