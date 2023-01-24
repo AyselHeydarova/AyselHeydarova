@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=58A6FF&width=520&lines=iOS+Developer+Based+in+Azerbaijan++%F0%9F%92%BB" alt="Typing SVG" />
 </h3>
 
+<img src="https://komarev.com/ghpvc/?username=AyselHeydarova&color=brightgreen" alt="watching_count" />
+
 ### Connect with me:
 
 - 📫 How to reach me **aysel.esedova1994@gmail.com**
