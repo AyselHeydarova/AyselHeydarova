@@ -26,6 +26,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me **aysel.esedova1994@gmail.com**
 
 - ![linkedin-original 256x256](https://user-images.githubusercontent.com/22838367/210111074-70695d55-c4c9-4ef4-8d33-6a3b2e2b11cb.png) Know about my experiences using Linkedin Profile [Aysel Heydarova](https://www.linkedin.com/in/aysel-heydarova-6b8ab1124/)
+- <p align="left">
+<a href="https://www.leetcode.com/ayselheydarova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayselheydarova" height="30" width="40" /></a>
+</p>
 
 
 As an iOS Developer, I am dedicated to delivering high-quality work on time and to specification. I prioritize writing clean, solid, readable code that scales and performs well, and I enjoy tackling hard tasks and challenges that come my way. Over the past three years, I have gained experience in the fintech industry, working under Agile and Scrum frameworks.
